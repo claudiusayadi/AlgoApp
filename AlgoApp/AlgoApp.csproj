@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\01NaturalSum\01NaturalSum.csproj" />
+    <ProjectReference Include="..\03MultiplicationTable\03MultiplicationTable.csproj" />
+    <ProjectReference Include="..\05NumberSquares\05NumberSquares.csproj" />
+    <ProjectReference Include="..\06FibonacciSequence\06FibonacciSequence.csproj" />
+    <ProjectReference Include="..\04EvenNumbers\04EvenNumbers.csproj" />
+    <ProjectReference Include="..\02Factorial\02Factorial.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

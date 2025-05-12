@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoApp", "AlgoApp\AlgoApp.csproj", "{CCC0174F-866E-42B4-8AB3-CAD354435589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01NaturalSum", "01NaturalSum\01NaturalSum.csproj", "{F23AC930-0B63-411A-8CC2-2C1FF4029BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03MultiplicationTable", "03MultiplicationTable\03MultiplicationTable.csproj", "{BCF8C763-14F0-449A-BEDD-F642AAA372E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05NumberSquares", "05NumberSquares\05NumberSquares.csproj", "{55C2E934-3E08-459C-9362-0B8202B3FE0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06FibonacciSequence", "06FibonacciSequence\06FibonacciSequence.csproj", "{8CBD4946-B6AC-43AE-AD73-D17D8829482E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04EvenNumbers", "04EvenNumbers\04EvenNumbers.csproj", "{FF011280-2466-46A8-81C5-592E77A85824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02Factorial", "02Factorial\02Factorial.csproj", "{70F99A04-F4B8-4B54-A405-4F5D340848DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC0174F-866E-42B4-8AB3-CAD354435589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC0174F-866E-42B4-8AB3-CAD354435589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC0174F-866E-42B4-8AB3-CAD354435589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC0174F-866E-42B4-8AB3-CAD354435589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23AC930-0B63-411A-8CC2-2C1FF4029BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23AC930-0B63-411A-8CC2-2C1FF4029BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23AC930-0B63-411A-8CC2-2C1FF4029BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23AC930-0B63-411A-8CC2-2C1FF4029BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF8C763-14F0-449A-BEDD-F642AAA372E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF8C763-14F0-449A-BEDD-F642AAA372E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF8C763-14F0-449A-BEDD-F642AAA372E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF8C763-14F0-449A-BEDD-F642AAA372E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C2E934-3E08-459C-9362-0B8202B3FE0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C2E934-3E08-459C-9362-0B8202B3FE0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C2E934-3E08-459C-9362-0B8202B3FE0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C2E934-3E08-459C-9362-0B8202B3FE0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CBD4946-B6AC-43AE-AD73-D17D8829482E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBD4946-B6AC-43AE-AD73-D17D8829482E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBD4946-B6AC-43AE-AD73-D17D8829482E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBD4946-B6AC-43AE-AD73-D17D8829482E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF011280-2466-46A8-81C5-592E77A85824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF011280-2466-46A8-81C5-592E77A85824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF011280-2466-46A8-81C5-592E77A85824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF011280-2466-46A8-81C5-592E77A85824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F99A04-F4B8-4B54-A405-4F5D340848DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F99A04-F4B8-4B54-A405-4F5D340848DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F99A04-F4B8-4B54-A405-4F5D340848DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F99A04-F4B8-4B54-A405-4F5D340848DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

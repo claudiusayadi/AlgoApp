@@ -21,6 +21,6 @@ public class EvenNumberFinder
 			}
 		}
 
-		return evenNumbers.ToArray();
+		return [.. evenNumbers];
 	}
 }

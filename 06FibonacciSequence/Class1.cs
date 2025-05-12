@@ -28,6 +28,6 @@ public class FibonacciGenerator
             n2 = nth;
         }
 
-        return sequence.ToArray();
+        return [.. sequence];
     }
 }
